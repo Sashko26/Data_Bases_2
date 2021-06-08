@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4701a6bb-9cbb-4923-8f5b-87f78060e4c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/controller/Controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/EmulationController.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/Neo4jController.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listner/Listener.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servers/neo4j_server/Neo4jServer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servers/redis_server/RedisServer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/tutorial/spiders/script.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/tutorial/spiders/script.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1rhP66jlURrFbMTgqPNgRPA3esn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\klapan\OneDrive\Документи\GitHub\Data_Bases_2\lab3" />
+      <recent name="C:\Users\klapan\OneDrive\Документи\GitHub\Data_Bases_2\lab3\src\servers\neo4j_server" />
+      <recent name="C:\Users\klapan\OneDrive\Документи\GitHub\Data_Bases_2\lab3\src\servers" />
+      <recent name="C:\Users\klapan\OneDrive\Документи\GitHub\Data_Bases_2\lab3\src" />
+      <recent name="C:\Users\klapan\dataBase2\redisTest\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4701a6bb-9cbb-4923-8f5b-87f78060e4c6" name="Default Changelist" comment="" />
+      <created>1619425170002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619425170002</updated>
+      <workItem from="1619425237193" duration="1966000" />
+      <workItem from="1619429211830" duration="588000" />
+      <workItem from="1619438525907" duration="537000" />
+      <workItem from="1619453370600" duration="18473000" />
+      <workItem from="1619547563060" duration="3236000" />
+      <workItem from="1619636097846" duration="4197000" />
+      <workItem from="1619681155458" duration="4577000" />
+      <workItem from="1619695803255" duration="6002000" />
+      <workItem from="1619772376663" duration="25231000" />
+      <workItem from="1619856343737" duration="12902000" />
+      <workItem from="1619922892727" duration="6181000" />
+      <workItem from="1619982854015" duration="5215000" />
+      <workItem from="1620022441275" duration="11016000" />
+      <workItem from="1620119886852" duration="2340000" />
+      <workItem from="1620147245533" duration="9293000" />
+      <workItem from="1620194107305" duration="22252000" />
+      <workItem from="1620285525934" duration="26724000" />
+      <workItem from="1620367589700" duration="10269000" />
+      <workItem from="1620408994864" duration="9151000" />
+      <workItem from="1620460807840" duration="4000000" />
+      <workItem from="1620466303457" duration="17850000" />
+      <workItem from="1620495293650" duration="8684000" />
+      <workItem from="1620508460797" duration="1592000" />
+      <workItem from="1620565635961" duration="1398000" />
+      <workItem from="1620593760648" duration="6080000" />
+      <workItem from="1620660659316" duration="14486000" />
+      <workItem from="1620715818840" duration="19182000" />
+      <workItem from="1620752948680" duration="8363000" />
+      <workItem from="1622887761112" duration="6169000" />
+      <workItem from="1622894107655" duration="12736000" />
+      <workItem from="1623079021600" duration="5408000" />
+      <workItem from="1623177148855" duration="11083000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="113" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623185625854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="113" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1623185625854" />
+    <state x="423" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620379638408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="423" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1620379638408" />
+    <state x="223" y="88" key="FileChooserDialogImpl" timestamp="1620674873384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="223" y="88" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1620674873384" />
+    <state x="-35" y="17" key="SettingsEditor" timestamp="1623186504057">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-35" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1623186504057" />
+    <state x="237" y="92" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1620203327341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="237" y="92" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1620203327341" />
+    <state x="227" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1622892641969">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="227" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1622892641969" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Lib/site-packages/keyboard/__init__.py</url>
+          <line>585</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

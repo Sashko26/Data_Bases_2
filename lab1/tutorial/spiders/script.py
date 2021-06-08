@@ -7,6 +7,9 @@ def createRootElement():
     return root
 root = createRootElement()
 
+
+
+
 def getLinks(response):
     listOfLinks = []
     for link in response.xpath('//a'):
